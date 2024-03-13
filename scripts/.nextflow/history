@@ -1,0 +1,13 @@
+2024-03-10 16:49:28	1.8s	evil_legentil	OK	ac9043fc6c3ae7c70421f8a815ffde13	eb9517e2-585c-4e8f-9b6c-66ab32c7b2de	nextflow run tutorial.nf
+2024-03-13 12:37:43	1.4s	voluminous_newton	OK	60d6ece9ded72a2bc9e4db8fc2f041ed	701ca3c7-4566-480a-9428-d21cef929fad	nextflow run 3_1_2_variable.nf
+2024-03-13 13:02:22	785ms	cheeky_sammet	OK	e740bbd91f63ed2b917d8067145691f1	9d369ef1-43ec-4d58-aca1-f09f127cb22a	nextflow run 3_1_2_variable.nf
+2024-03-13 13:03:08	1.1s	deadly_bhaskara	OK	e740bbd91f63ed2b917d8067145691f1	c197ab6f-e9e7-4605-9afe-0ad82961e05a	nextflow run 3_1_language_basics.nf
+2024-03-13 13:04:27	-	admiring_joliot	-	2a6621e29eb46145cd4e83545b159511	b38aa11e-8353-4d39-86aa-17e3d1e3a32d	nextflow run 3_1_language_basics.nf
+2024-03-13 13:04:46	-	special_cajal	-	91232c2f75f24bc891548107ab3a5775	7728c5ed-6cc2-4fe2-bd9b-9daeedeedc96	nextflow run 3_1_language_basics.nf
+2024-03-13 13:06:12	-	prickly_kay	-	5d1e35e92d82ca949a7541e613197edf	74bf93df-6d95-4847-9538-50b241d4e59c	nextflow run 3_1_language_basics.nf
+2024-03-13 13:06:55	1.6s	condescending_swanson	OK	bc552069e3801abb61746811a134d00c	607c24f8-dbd1-44bc-a73a-93a4290bd636	nextflow run 3_1_language_basics.nf
+2024-03-13 13:07:34	822ms	tender_boyd	OK	6e7428b71f2c223f18f55fd4166acdee	e48db253-d06e-4ad6-95d2-97184db10d1a	nextflow run 3_1_language_basics.nf
+2024-03-13 13:09:02	1.4s	suspicious_sinoussi	OK	93a9a95682627f2f989b32665d686684	dd04a975-a10a-4fc9-8ff4-a3af610a32a2	nextflow run 3_1_language_basics.nf
+2024-03-13 13:09:30	796ms	elated_kalam	OK	d3ee106186694ef537cea5a0b1f83356	08a995f7-1d2f-4a7b-84ed-667c82f5b72b	nextflow run 3_1_language_basics.nf
+2024-03-13 13:09:48	1.4s	reverent_euclid	OK	a76d08d05326d61cbcd530308e4bda9f	451bab5e-93fa-462c-9b94-08a0bacac0f5	nextflow run 3_1_language_basics.nf
+2024-03-13 13:10:21	1.5s	zen_fermat	OK	c69d8ca6b528cb37847babdf71a08d4b	b9f8ecc2-d305-4270-957c-a23878a2866f	nextflow run 3_1_language_basics.nf
