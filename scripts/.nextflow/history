@@ -11,3 +11,36 @@
 2024-03-13 13:09:30	796ms	elated_kalam	OK	d3ee106186694ef537cea5a0b1f83356	08a995f7-1d2f-4a7b-84ed-667c82f5b72b	nextflow run 3_1_language_basics.nf
 2024-03-13 13:09:48	1.4s	reverent_euclid	OK	a76d08d05326d61cbcd530308e4bda9f	451bab5e-93fa-462c-9b94-08a0bacac0f5	nextflow run 3_1_language_basics.nf
 2024-03-13 13:10:21	1.5s	zen_fermat	OK	c69d8ca6b528cb37847babdf71a08d4b	b9f8ecc2-d305-4270-957c-a23878a2866f	nextflow run 3_1_language_basics.nf
+2024-03-14 11:10:51	-	elegant_wescoff	-	705fe53b0c105c5fa95f64a873b1cfaa	f1f4008c-8661-470b-a02b-7a0fc58d5113	nextflow run 3_1_language_basics.nf
+2024-03-28 11:04:50	-	angry_noether	-	705fe53b0c105c5fa95f64a873b1cfaa	f1b664ab-d780-4644-b707-3bd51fd32742	nextflow 3_1_language_basics.nf
+2024-03-28 11:05:34	899ms	wise_magritte	OK	99bfe476ed55cb0b697a807485e70965	3ef183ae-59d2-4212-8763-46a5dc312619	nextflow 3_1_language_basics.nf
+2024-03-28 11:07:18	713ms	crazy_minsky	OK	3b73c17847d2c3cd2241efda15adc438	6d333044-0106-46a3-a37f-654711272ca8	nextflow 3_1_language_basics.nf
+2024-03-28 11:07:38	1.2s	reverent_colden	OK	99bfe476ed55cb0b697a807485e70965	83537e2e-57a2-4cb9-9b4a-f5bb8e1df132	nextflow 3_1_language_basics.nf
+2024-03-28 11:10:01	579ms	pensive_kare	OK	0ce230877feffcf7dbd18026c482bcd6	e2d35dbf-e86e-495d-9498-f0ff1b2f4091	nextflow 3_1_language_basics.nf
+2024-03-28 11:10:23	1.3s	ecstatic_mendel	OK	29000eab974b591eb891c9cd5710d0da	78c384dc-5aa5-4a98-947c-10366594e340	nextflow 3_1_language_basics.nf
+2024-03-28 11:12:52	-	mad_linnaeus	-	3f9b8111de197e08a8176d9f9b02cd1b	76cd1735-7f60-404d-8a25-a7896acdecaa	nextflow 3_1_language_basics.nf
+2024-03-28 11:13:21	1.4s	marvelous_varahamihira	OK	3a105aee3ac40b7aeee6a663711c050e	ea31aa26-d23d-4bec-b91a-e7d7aa41e054	nextflow 3_1_language_basics.nf
+2024-03-28 11:13:57	535ms	soggy_euler	OK	90b6354464e790237187288a5d6d58e6	a3f0cbc3-39e0-4089-8472-823d00874298	nextflow 3_1_language_basics.nf
+2024-03-28 11:14:21	1.2s	magical_khorana	OK	94b00a680ee822b1cafd32f0bcd961ed	9fc0bc78-7d2d-4956-a404-15f8a84cdc73	nextflow 3_1_language_basics.nf
+2024-03-28 11:15:15	-	peaceful_euler	-	968c5c672542d01d19e93452c1276b5b	3efdaf10-94bd-47a5-bb5d-6c5fdae2a2e2	nextflow 3_1_language_basics.nf
+2024-03-28 11:16:03	1.2s	marvelous_hugle	OK	c094f19490a7453cac71162a0085008f	5681c9ef-416e-4ceb-99a9-69dacb58765b	nextflow 3_1_language_basics.nf
+2024-03-28 11:17:02	745ms	scruffy_sanger	OK	4f7baeaecf7f065e4872a22f9f4cd02a	1a16ad1f-6fe4-4d70-93ae-d2a44aae64c1	nextflow 3_1_language_basics.nf
+2024-03-28 11:17:27	1.4s	naughty_laplace	OK	9ab7436c9c6c80a38def32aa3efa21e4	cb30bb9b-bfeb-48ec-9c18-2a77d21bb1ba	nextflow 3_1_language_basics.nf
+2024-03-28 11:20:04	1.4s	gigantic_baekeland	OK	b954cec47290ef4cbc3ec74911ba5de5	b49b7eca-e59e-47ef-936c-1113ee943101	nextflow 3_1_language_basics.nf
+2024-03-28 11:20:29	618ms	cranky_jepsen	OK	abe4ae5c7d63137c5144ccf5530b71ff	9c4ff966-12a9-40e1-a418-82aea9fc7414	nextflow 3_1_language_basics.nf
+2024-03-28 11:22:06	1.1s	deadly_leibniz	OK	053fddfd1af52174c4e828e4a9544579	3f24d387-dbd9-4eb1-8d4d-4d680ebfa1c5	nextflow 3_1_language_basics.nf
+2024-03-28 11:23:03	523ms	reverent_moriondo	OK	c5b0871bd7e6b6a2f4f68c76552ff434	0d503f69-db65-411a-8b31-5f988d271aaf	nextflow 3_1_language_basics.nf
+2024-03-28 11:26:49	1.2s	hungry_bassi	OK	56ba2b0e8ef2cb914db1b35a771d1ddf	0f8ff8f6-cf0e-4060-bb47-df2ba1c9afbd	nextflow 3_1_language_basics.nf
+2024-03-31 11:38:52	857ms	boring_stonebraker	OK	10adbb148d7b92340ad17adfaa1a19f1	4e248f6e-bc0a-42f7-ae9c-00012d0d8dff	nextflow 3_1_language_basics.nf
+2024-03-31 11:42:14	-	pedantic_kirch	-	c75cb2818aa49d281e9c0a6a19d6ee46	a1469621-5846-46af-a488-9ab450366353	nextflow 3_1_language_basics.nf
+2024-03-31 11:42:37	768ms	determined_avogadro	OK	2fcac96df499ea1aa4d9a726c11d4e5f	4886de60-44cc-4bcc-810b-6a5e0d19cff8	nextflow 3_1_language_basics.nf
+2024-03-31 11:43:19	-	thirsty_torvalds	-	62bb9ce5c6665029f59ecf3742056ce6	4f64cc07-d09b-438c-9abb-84c72ab40f18	nextflow 3_1_language_basics.nf
+2024-03-31 11:48:24	-	prickly_tuckerman	-	7d6bdbaa0742111394ca72bf9b6ba489	36d97f9b-93b7-4b46-acb4-77c2740bf260	nextflow 3_1_language_basics.nf
+2024-03-31 11:49:20	1.5s	awesome_wright	OK	f7928adc1b69a37c99f35c2f708fcf9f	21943ed3-af6d-4070-a889-cb5ecd329193	nextflow 3_1_language_basics.nf
+2024-03-31 11:49:59	1.3s	golden_franklin	OK	a7d4a209fde6dbca3c3c40fbbe7c378e	2288201a-c011-40de-930f-51f9f87899b5	nextflow 3_1_language_basics.nf
+2024-03-31 11:50:04	1.6s	confident_goldberg	OK	a7d4a209fde6dbca3c3c40fbbe7c378e	3251ef27-6af8-44a0-b17d-6f5e168c43b9	nextflow 3_1_language_basics.nf
+2024-03-31 11:50:20	-	friendly_volhard	-	59bb33bb5332886b713a18cdef1fd982	7eafab2b-4f0a-4fdb-91c6-d8b98b271f02	nextflow 3_1_language_basics.nf
+2024-03-31 11:50:35	1.2s	magical_borg	OK	4d1f7fbc4267785449c59e44f60e974f	3a4908d9-a5b0-4512-a9b0-032a52b6b299	nextflow 3_1_language_basics.nf
+2024-04-02 11:10:06	-	awesome_magritte	-	432daff81c8e8cb26b122170ef8e9eb6	9375e61f-df9a-40b6-a574-9fcbe501380f	nextflow 3_1_language_basics.nf
+2024-04-22 11:53:00	-	sad_goodall	-	218526daf2cf25c4e9296c7acc2a229c	b3a07c15-4e63-45ed-bc36-d8b89fb09286	nextflow 3_1_language_basics.nf
+2024-04-22 11:54:07	-	distraught_spence	-	680d0a99e0e44b0f899702eb6ae563a8	9fe87cdf-aa80-4afc-ad93-857d1fce79c8	nextflow 3_1_language_basics.nf
